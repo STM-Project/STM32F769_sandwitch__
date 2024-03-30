@@ -1,0 +1,8 @@
+SDCard.c:14:5:SDCardStart	16	static
+SDCard.c:22:5:SDCardFileOpen	24	static
+SDCard.c:36:5:SDCardFileInfo	304	static
+SDCard.c:47:5:SDCardFileWrite	32	static
+SDCard.c:55:5:SDCardFileRead	32	static
+SDCard.c:65:5:SDCardFileClose	24	static
+SDCard.c:73:5:SDCardFilePosition	24	static
+SDCard.c:83:10:SDCard_ReadFile	32	static

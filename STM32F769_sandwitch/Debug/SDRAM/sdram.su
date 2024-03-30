@@ -1,0 +1,6 @@
+sdram.c:36:13:SDRAM_Write	32	static
+sdram.c:46:13:SDRAM_Read	32	static
+sdram.c:56:13:BSP_SDRAM_Initialization_Sequence	24	static
+sdram.c:112:6:SDRAM_Init	8	static
+sdram.c:117:5:SDRAM_Test	816	static
+sdram.c:138:5:TestSDRAM	40	static

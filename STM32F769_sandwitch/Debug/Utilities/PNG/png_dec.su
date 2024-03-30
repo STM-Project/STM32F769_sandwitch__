@@ -1,0 +1,6 @@
+png_dec.c:25:6:encodeToBMP	96	static
+png_dec.c:58:9:writeToBMP	32	static
+png_dec.c:85:6:raw_data_convert	48	static
+png_dec.c:121:5:dec_png	56	static
+png_dec.c:180:5:dec_png_buf	80	static
+png_dec.c:246:6:png_dec_test	16	static

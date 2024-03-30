@@ -1,0 +1,2 @@
+read_panel.c:104:6:LCD_paint	24	static
+read_panel.c:342:6:SCREEN_MainPanel	288	static

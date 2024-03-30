@@ -1,0 +1,6 @@
+LCD_ButtonID.c:20:6:ClearAllButton	16	static
+LCD_ButtonID.c:26:5:SearchFirstFreeButton	16	static
+LCD_ButtonID.c:34:5:GetButtonNumber	24	static
+LCD_ButtonID.c:42:6:LCD_Button	88	static
+LCD_ButtonID.c:99:5:TOUCH_ButtonID	64	static
+LCD_ButtonID.c:149:5:TOUCH_ButtonService	16	static

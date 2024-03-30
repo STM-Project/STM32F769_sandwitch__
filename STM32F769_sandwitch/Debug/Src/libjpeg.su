@@ -1,0 +1,15 @@
+libjpeg.c:150:6:MX_LIBJPEG_Init	4	static
+libjpeg.c:165:13:OnError_Handler	8	static
+libjpeg.c:180:17:JPEG_FindFrameOffset	32	static
+libjpeg.c:239:17:JPEG_Decode_DMA	40	static
+libjpeg.c:278:17:JPEG_OutputHandler	48	static
+libjpeg.c:314:13:JPEG_InputHandler	16	static
+libjpeg.c:354:6:JPEG_test	32	static
+libjpeg.c:416:6:TOUCH_Video	24	static
+libjpeg.c:435:6:AVI_test	64	static
+libjpeg.c:589:6:CreateAviTask	16	static
+libjpeg.c:600:6:HAL_JPEG_InfoReadyCallback	16	static
+libjpeg.c:617:6:HAL_JPEG_GetDataCallback	16	static
+libjpeg.c:657:6:HAL_JPEG_DataReadyCallback	24	static
+libjpeg.c:684:6:HAL_JPEG_ErrorCallback	16	static
+libjpeg.c:694:6:HAL_JPEG_DecodeCpltCallback	16	static

@@ -1,0 +1,6 @@
+wwwPages.c:27:6:ResetTestTab	16	static
+wwwPages.c:37:14:ParserPageHTTP	24	static
+wwwPages.c:53:13:ParserQueryHTTP	40	static
+wwwPages.c:72:17:ASP_Callback	168	static
+wwwPages.c:116:13:CGI_Callback	232	static
+wwwPages.c:166:15:GetPageWWW	24	static

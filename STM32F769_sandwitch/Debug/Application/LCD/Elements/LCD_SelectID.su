@@ -1,0 +1,14 @@
+LCD_SelectID.c:25:6:ClearAllSelect	16	static
+LCD_SelectID.c:32:12:SearchFirstFreeSelect	16	static
+LCD_SelectID.c:42:12:GetSelectNumber	24	static
+LCD_SelectID.c:52:7:GetSelTxt	40	static
+LCD_SelectID.c:77:12:GetNumberAllLinesSelTxt	32	static
+LCD_SelectID.c:89:6:LCD_Select	152	static
+LCD_SelectID.c:191:13:LCD_SelectSevice	248	static
+LCD_SelectID.c:410:13:LCD_SelectTriangleIndirect	32	static
+LCD_SelectID.c:423:6:LCD_SelectUnroll	48	static
+LCD_SelectID.c:453:5:LCD_SelectRoll	24	static
+LCD_SelectID.c:475:5:LCD_SelectPress	16	static
+LCD_SelectID.c:487:5:GetSelectLineNr	16	static
+LCD_SelectID.c:492:5:IsSelectRoll	4	static
+LCD_SelectID.c:507:6:vTOUCH_SelectService	24	static

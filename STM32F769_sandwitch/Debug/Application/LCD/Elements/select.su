@@ -1,0 +1,9 @@
+select.c:24:6:ClearAllSelect	0	static
+select.c:30:5:SearchFirstFreeSelect	0	static
+select.c:39:5:GetSelectNumber	0	static
+select.c:48:7:GetSelTxt	32	static
+select.c:68:5:GetNumberAllLinesSelTxt	8	static
+select.c:79:6:LCD_Select	128	static
+select.c:161:6:LCD_SelectSevice	208	static
+select.c:389:6:LCD_SelectTriangleIndirect	40	static
+select.c:402:6:TOUCH_SelectID	64	static

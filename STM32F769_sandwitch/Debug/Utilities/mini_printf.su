@@ -1,0 +1,11 @@
+mini_printf.c:56:14:mini_strlen	24	static
+mini_printf.c:63:6:StrBuffCopy	24	static
+mini_printf.c:68:6:StrBuffCopylimit	32	static
+mini_printf.c:74:21:mini_itoa	48	static
+mini_printf.c:122:6:_putc	16	static
+mini_printf.c:116:5:mini_vsnprintf	80	static
+mini_printf.c:131:6:_puts	32	static
+mini_printf.c:203:5:mini_snprintf	24	static
+mini_printf.c:231:6:ssprintf	52	static
+mini_printf.c:421:15:hex_to_ASCII	16	static
+mini_printf.c:441:6:debugPrintHexTable	48	static

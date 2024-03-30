@@ -1,0 +1,8 @@
+SCREEN_WifiSet.c:136:12:GetFontSizeFactor	32	static
+SCREEN_WifiSet.c:155:6:SCREEN_WifiSet	80	static
+SCREEN_WifiSet.c:307:7:_Slider	32	static
+SCREEN_WifiSet.c:305:6:TOUCH_WifiSet	32	static
+SCREEN_WifiSet.c:322:7:_Select	16	static
+SCREEN_WifiSet.c:326:7:_WhiteField	16	static
+SCREEN_WifiSet.c:341:7:_Checkbox	16	static
+SCREEN_WifiSet.c:345:7:_Button	16	static

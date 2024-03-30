@@ -1,0 +1,15 @@
+StartUp.c:10:6:WaitForAccess	24	static
+StartUp.c:16:6:ReleaseAccess	16	static
+StartUp.c:21:6:STARTUP_Init	8	static
+StartUp.c:27:10:STARTUP_WaitForBits	24	static
+StartUp.c:35:6:STARTUP_SetBits	16	static
+StartUp.c:40:6:STARTUP_ClaerBits	16	static
+StartUp.c:47:6:CLEAR_allBits	4	static
+StartUp.c:51:6:SET_Bit	16	static
+StartUp.c:55:6:CLEAR_Bit	16	static
+StartUp.c:59:5:GET_Bit	16	static
+StartUp.c:70:6:AllTimeReset	16	static
+StartUp.c:75:6:TimeReset	16	static
+StartUp.c:79:5:IsTimeout	16	static
+StartUp.c:89:6:StartMeasurTime	16	static
+StartUp.c:93:6:StopMeasurTime	24	static

@@ -1,0 +1,9 @@
+lcd.c:77:6:BSP_LCD_DrawBitmap	56	static
+lcd.c:132:6:BSP_LCD_DrawXXX	56	static
+lcd.c:157:6:DMA2D_CopyBuffer	56	static
+lcd.c:209:10:LCD_GetXSize	0	static
+lcd.c:214:10:LCD_GetYSize	0	static
+lcd.c:243:6:LCD_Init	88	static
+lcd.c:249:6:BSP_LCD_Clear	32	static
+lcd.c:255:6:BSP_LCD_DrawHLine	32	static
+lcd.c:273:6:BSP_LCD_DrawPixel	4	static

@@ -1,0 +1,4 @@
+windows.c:26:13:LCD_Clear	12	static
+windows.c:37:13:LCD_Field	24	static
+windows.c:78:13:LCD_WpiszTxtPos	0	static
+windows.c:102:6:LCD_Obraz_1	40	static

@@ -1,0 +1,10 @@
+LCD_CheckboxID.c:19:6:ClearAllCheckbox	16	static
+LCD_CheckboxID.c:25:5:SearchFirstFreeCheckbox	16	static
+LCD_CheckboxID.c:33:5:GetCheckboxNumber	24	static
+LCD_CheckboxID.c:41:6:LCD_Checkbox	64	static
+LCD_CheckboxID.c:188:6:LCD_DescrCheckboxLeft	56	static
+LCD_CheckboxID.c:197:6:LCD_DescrCheckboxRight	48	static
+LCD_CheckboxID.c:203:6:LCD_DescrCheckboxUp	64	static
+LCD_CheckboxID.c:210:6:LCD_DescrCheckboxDown	56	static
+LCD_CheckboxID.c:217:5:TOUCH_CheckboxID	40	static
+LCD_CheckboxID.c:327:6:TOUCH_CheckboxService	24	static

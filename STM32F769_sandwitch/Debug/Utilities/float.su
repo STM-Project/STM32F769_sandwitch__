@@ -1,0 +1,10 @@
+float.c:18:10:IPStr2Int	56	static
+float.c:25:10:MACStr2Int64	120	static
+float.c:39:7:IP2Str	48	static
+float.c:50:7:MAC2Str	80	static
+float.c:56:7:Int64ToHexStr	32	static
+float.c:64:7:Int2DecStr	16	static
+float.c:70:7:int2str	16	static
+float.c:83:7:int2perctStr	24	static
+float.c:112:6:dbl2stri	128	static
+float.c:210:6:float2stri	128	static

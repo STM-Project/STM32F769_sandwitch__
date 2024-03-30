@@ -1,0 +1,13 @@
+LCD_Hardware.c:20:13:LL_ConvertLineToARGB8888	32	static
+LCD_Hardware.c:49:13:LL_FillBuffer	32	static
+LCD_Hardware.c:79:6:BSP_LCD_DrawBitmap	56	static
+LCD_Hardware.c:134:6:DMA2D_CopyBuffer	48	static
+LCD_Hardware.c:208:6:BSP_LCD_Display	56	static
+LCD_Hardware.c:257:6:BSP_LCD_DrawXXX	56	static
+LCD_Hardware.c:368:10:LCD_GetXSize	4	static
+LCD_Hardware.c:373:10:LCD_GetYSize	4	static
+LCD_Hardware.c:378:13:BSP_LCD_LayerDefaultInit	72	static
+LCD_Hardware.c:402:6:LCD_Init	8	static
+LCD_Hardware.c:408:6:BSP_LCD_Clear	40	static
+LCD_Hardware.c:414:6:BSP_LCD_DrawHLine	40	static
+LCD_Hardware.c:432:6:BSP_LCD_DrawPixel	24	static

@@ -1,0 +1,10 @@
+variables.c:56:6:SetVal	16	static
+variables.c:79:6:DecrVal	16	static
+variables.c:83:6:IncrVal	16	static
+variables.c:88:5:GetVal	16	static
+variables.c:113:6:SetTabVal	24	static
+variables.c:186:5:GetTabVal	16	static
+variables.c:239:6:SetStr	32	static
+variables.c:296:7:GetStr	16	static
+variables.c:331:6:SetVal64	24	static
+variables.c:347:10:GetVal64	16	static

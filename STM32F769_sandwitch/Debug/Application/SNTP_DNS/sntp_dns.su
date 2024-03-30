@@ -1,0 +1,2 @@
+sntp_dns.c:16:6:DefaultSettingsDNS	8	static
+sntp_dns.c:24:6:DefaultSettingsSNTP	8	static

@@ -1,0 +1,4 @@
+ssl_client.c:116:5:SSL_Send_Data	24	static
+ssl_client.c:134:5:SSL_Reciev_Data	32	static
+ssl_client.c:183:6:SSL_Client	32	static
+ssl_client.c:418:6:Koniec_SSL_client_Watek	8	static

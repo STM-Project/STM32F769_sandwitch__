@@ -1,0 +1,11 @@
+wifi.c:25:6:EspTx	8	static
+wifi.c:30:6:EspTx_roz	8	static
+wifi.c:35:6:Init_Esp	16	static
+wifi.c:96:6:vtaskWifi	8	static
+wifi.c:41:6:isEsp_Recv	8	static
+wifi.c:54:6:printf_Wifi	16	static
+wifi.c:63:6:printf_aaa	0	static
+wifi.c:69:6:isAnything_EspRecv	0	static
+wifi.c:79:6:WIFI_RxCallbackService	16	static
+wifi.c:90:6:HAL_UART_ErrorCallback	8	static
+wifi.c:143:6:CreateWifiTask	16	static

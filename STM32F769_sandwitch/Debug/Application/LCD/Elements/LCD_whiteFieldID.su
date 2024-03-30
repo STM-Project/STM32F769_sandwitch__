@@ -1,0 +1,8 @@
+LCD_WhiteFieldID.c:21:6:ClearAllWhiteField	16	static
+LCD_WhiteFieldID.c:27:5:SearchFirstFreeWhiteField	16	static
+LCD_WhiteFieldID.c:35:5:GetWhiteFieldNumber	24	static
+LCD_WhiteFieldID.c:43:6:DeleteWhiteField	24	static
+LCD_WhiteFieldID.c:55:5:LCD_WhiteField	88	static
+LCD_WhiteFieldID.c:113:6:LCD_DescrWhiteField	56	static
+LCD_WhiteFieldID.c:126:6:TOUCH_WhiteFieldID	56	static
+LCD_WhiteFieldID.c:166:5:vTOUCH_WhiteFieldService	24	static

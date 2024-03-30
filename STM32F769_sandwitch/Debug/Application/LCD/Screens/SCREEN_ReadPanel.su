@@ -1,0 +1,5 @@
+SCREEN_ReadPanel.c:46:13:LCD_HeaderImage	56	static
+SCREEN_ReadPanel.c:81:13:LCD_MainPanelTextFrame	128	static
+SCREEN_ReadPanel.c:220:6:SCREEN_MainPanel	64	static
+SCREEN_ReadPanel.c:248:6:SCREEN_MainPanel__	368	static
+SCREEN_ReadPanel.c:412:6:TOUCH_MainPanel	40	static

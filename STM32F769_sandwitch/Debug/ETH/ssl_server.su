@@ -1,0 +1,2 @@
+ssl_server.c:100:6:SSL_Server	152	static
+ssl_server.c:489:6:Koniec_SSL_Server_Watek	8	static
